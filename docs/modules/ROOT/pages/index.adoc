@@ -1,16 +1,20 @@
-= Welcome to Component B!
+= Welcome to the Antora Demo!
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 // Settings
 :idprefix:
 :idseparator: -
-:demo:
+:demo: 2.0
 
-This is the automatic start page for version *{demo}* of Component B.
+This is the home page of the Antora Demo site.
+It is also the automatic start page for version *{demo}* of Component B.
 
 Component B is one of two documentation components in the Antora Demo.
 The other docs component, Component A, can be accessed via the component selector menu (aka component drawer) at the bottom of the menu on the left side of the page.
+
+To switch to version 1.0 of this page, use the page version selector.
+The selector is on the task bar, located near the upper right corner of the page.
 
 == Page source
 
