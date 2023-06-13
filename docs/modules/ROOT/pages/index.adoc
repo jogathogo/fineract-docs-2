@@ -1,4 +1,5 @@
 
+
 == Overview
 Fineract is a headless core banking platform meaning it does not have a UI. It is fully API driven whereby all operations are carried out by making API calls and getting a response.
 [attributes]
@@ -9,6 +10,7 @@ the Mifos UI generally works with Fineract but may not fully support all apache 
 
 
 The platform supports most of the standard banking operations: client management, account management, loans, accounting, short/long term deposits and reporting.
+
 
 
 
