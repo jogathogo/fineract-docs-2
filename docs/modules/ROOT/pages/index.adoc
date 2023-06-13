@@ -1,3 +1,4 @@
+
 == Overview
 Fineract is a headless core banking platform meaning it does not have a UI. It is fully API driven whereby all operations are carried out by making API calls and getting a response.
 [attributes]
@@ -6,9 +7,15 @@ the Mifos UI generally works with Fineract but may not fully support all apache 
 ....
 
 
+
 The platform supports most of the standard banking operations: client management, account management, loans, accounting, short/long term deposits and reporting.
 
+
+
+== Page source
+=======
 A number of configurative and administrative features are available out of the box, these include: roles and permissions, product definition, user management, maker/checker, two factor authentication and many more.
+
 
 As an open-source project, Fineract is constantly being updated with new features and improvements.
 
@@ -20,8 +27,12 @@ Fineract is a feature rich open source core banking platform and compares well w
 * No vendor lock-in, there is a wide range of implementors available to support with implementation, enhancement and post go live support
 * Fully API driven allowing building of applications on top of it and super easy to integrate third party services
 
+
+This page is used as the home page for the Antora Demo because it is assigned as the site `start_page` in the Demo site's playbook file [.path]_site.yml_.
+=======
 == Quick install and run Fineract
 Fineract is a Springboot application and can be deployed like any other such app. To get the platform up and running fast, follow these steps: 
+
 
 * one
 * two
